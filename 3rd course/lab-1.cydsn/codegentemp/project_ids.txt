@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f8274d03-7425-4bc0-9908-e7b045f8736c
+C:\Users\Admin\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|583f8fc0-38db-4271-a57a-25ed642db079
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0ad51a50-2826-44df-931f-617199a27ba1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|db605526-fdd5-4f27-aaf7-da066fca9da3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|005dceab-2c45-489f-a90c-063307ec9674
+D:\e d u c a t i o n\m i c r o c o n t r o l l e r s   2\WorkspaceLabs\lab-1.cydsn\lab-1.cyprj|28119ec8-e100-4137-82ee-907224f7c972
+C:\Users\Admin\Desktop\microcontrollers-part2-main\Workspace01\Lab1.cydsn\Lab1.cyprj|5a8a44d4-f464-47b8-9876-ada10b24cad0

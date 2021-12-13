@@ -1,0 +1,92 @@
+D:/projects/psoc/Workspace01/Lab3.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/A.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/A_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/B.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/B_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/Clock.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/Clock_1.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyDMA.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyFlash.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyLFClk.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyLib.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char_LCDPort.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char_LCDPort_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_1.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_1_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_2.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_2_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_3.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_3_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/QuadDec.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/QuadDec_Cnt8.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder_isr.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_isr.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/button.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/button_aliases.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/c_register.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_armcc.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_compiler.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_gcc.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/core_cm0.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyPm.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cydevice_trm.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cydisabledsheets.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyfitter.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cypins.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cytypes.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/project.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/t_counter.h D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/t_isr.h D:/projects/psoc/Workspace01/Lab3.cydsn/main.c 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/A.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/A_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/B.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/B_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/Clock.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/Clock_1.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char_LCDPort.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LCD_char_LCDPort_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_1.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_1_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_2.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_2_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_3.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/LED_3_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/QuadDec.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/QuadDec_Cnt8.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_encoder_isr.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/b_isr.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/button.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/button_aliases.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/c_register.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/project.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/t_counter.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/Generated_Source/PSoC4/t_isr.h : 
+
+D:/projects/psoc/Workspace01/Lab3.cydsn/main.c : 
+

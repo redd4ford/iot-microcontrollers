@@ -1,0 +1,8 @@
+D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+D:/e\ d\ u\ c\ a\ t\ i\ o\ n/m\ i\ c\ r\ o\ c\ o\ n\ t\ r\ o\ l\ l\ e\ r\ s\ \ \ 2/WorkspaceLabs/lab-1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+
